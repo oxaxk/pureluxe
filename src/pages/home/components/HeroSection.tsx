@@ -193,7 +193,7 @@ export default function HeroSection() {
               href="#contact" 
               variant="secondary"
               size="lg"
-              className="text-lg px-8 py-4 w-[320px] md:w-[360px]"
+              className="text-lg px-8 py-4 md:w-[360px]"
             >
               <i className="ri-edit-line mr-3 text-2xl"></i>
               Anfrage über Kontaktformular
@@ -205,7 +205,7 @@ export default function HeroSection() {
               <div className="w-16 h-16 mx-auto mb-4 bg-white/15 backdrop-blur-sm rounded-full flex items-center justify-center">
                 <i className="ri-award-line text-2xl"></i>
               </div>
-              <h3 className="font-semibold text-lg md:text-xl mb-2">Lash-Design</h3>
+              <h3 className="font-semibold text-2xl md:text-xl mb-2">Lash-Design</h3>
               <p className="text-white/80 text-sm leading-relaxed">Individuelle Looks von Classic bis Mega Volume.</p>
             </div>
             
@@ -213,7 +213,7 @@ export default function HeroSection() {
               <div className="w-16 h-16 mx-auto mb-4 bg-white/15 backdrop-blur-sm rounded-full flex items-center justify-center">
                 <i className="ri-user-heart-line text-2xl"></i>
               </div>
-              <h3 className="font-semibold text-lg md:text-xl mb-2">Studio & Schulungen</h3>
+              <h3 className="font-semibold text-2xl md:text-xl mb-2">Studio & Schulungen</h3>
               <p className="text-white/80 text-sm leading-relaxed">Erfahrene Lash-Expertin & professionelle Schulungen.</p>
             </div>
             
@@ -221,7 +221,7 @@ export default function HeroSection() {
               <div className="w-16 h-16 mx-auto mb-4 bg-white/15 backdrop-blur-sm rounded-full flex items-center justify-center">
                 <i className="ri-map-pin-line text-2xl"></i>
               </div>
-              <h3 className="font-semibold text-lg md:text-xl mb-2">Einfache Buchung</h3>
+              <h3 className="font-semibold text-2xl md:text-xl mb-2">Einfache Buchung</h3>
               <p className="text-white/80 text-sm leading-relaxed">Termine schnell & unkompliziert per Instagram DM oder Kontaktformular.</p>
             </div>
           </div>
