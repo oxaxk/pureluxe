@@ -42,7 +42,7 @@ export default function ServicesSection() {
     },
     {
       icon: 'ri-graduation-cap-line',
-      title: 'Lash-Schulungen',
+      title: 'Schulungen',
       description: 'Intensive Trainings für Einsteigerinnen & Profis. Theorie, Technik und sichere Anwendung am Modell.',
       image: '/images/services/lash-training.jpg'
     }
