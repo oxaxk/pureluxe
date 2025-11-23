@@ -206,7 +206,7 @@ export default function ServicesSection() {
             >
               {services.map((svc) => (
                 <div key={svc.title} className="shrink-0 w-[60%] md:w-[35%] lg:w-[32%] snap-center">
-                  <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 h-[400px] flex flex-col">
+                  <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 h-[460px] md:h-[400px] flex flex-col">
                     <div className="relative h-[50%] overflow-hidden">
                       <img
                         src={svc.image}
@@ -217,7 +217,7 @@ export default function ServicesSection() {
                         decoding="async"
                       />
                     </div>
-                    <div className="px-6 pt-4 pb-4 flex flex-col justify-start h-[45%]">
+                    <div className="px-6 pt-6 pb-4 flex flex-col justify-start h-[45%]">
                       <div className="mb-0 flex items-start mt-0">
                         <h3
                           className="text-2xl md:text-3xl font-bold mb-0"
